@@ -1,0 +1,83 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-image: url(indo.jpg)
+}
+p {
+    color: black;
+
+}
+p1 {
+    color: white;
+}
+h1{
+    color:antiquewhite;
+}
+.sacredmonkey {
+    margin-top: 100px;
+}
+.sacr {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.borobudur{
+    margin-top: 200px;
+}
+
+.boro {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.tanahlot {
+    margin-top: 200px;
+}
+
+.tana {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.prambanan {
+    margin-top: 200px;
+}
+
+.pram {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.uluwutu {
+    margin-top: 200px;
+}
+
+.uluw {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}

@@ -1,0 +1,83 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-image: url(thai.jpg)
+}
+p {
+    color: black;
+
+}
+p1 {
+    color: white;
+}
+h1{
+    color:antiquewhite;
+}
+.grandpalace {
+    margin-top: 100px;
+}
+.gran {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.emerald{
+    margin-top: 200px;
+}
+
+.emer {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.chiangmai {
+    margin-top: 200px;
+}
+
+.chian {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.truth {
+    margin-top: 200px;
+}
+
+.trut {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.watrong {
+    margin-top: 200px;
+}
+
+.watr {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}

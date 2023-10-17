@@ -1,0 +1,83 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-image: url(ph1.jpg)
+}
+p {
+    color: black;
+
+}
+p1 {
+    color: white
+}
+h1{
+    color:antiquewhite;
+}
+.palawan {
+    margin-top: 100px;
+}
+.pala {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.siargao{
+    margin-top: 200px;
+}
+
+.siar {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.batanes {
+    margin-top: 200px;
+}
+
+.bata {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.boracay {
+    margin-top: 200px;
+}
+
+.bora {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.bohol {
+    margin-top: 200px;
+}
+
+.boho {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}

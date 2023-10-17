@@ -1,0 +1,83 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-image: url(malays.jpg)
+}
+p {
+    color: black;
+
+}
+p1 {
+    color: white
+}
+h1{
+    color:antiquewhite;
+}
+.petronas {
+    margin-top: 100px;
+}
+.petr {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.legoland{
+    margin-top: 200px;
+}
+
+.lego {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.batucave {
+    margin-top: 200px;
+}
+
+.batu {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.menara {
+    margin-top: 200px;
+}
+
+.mena {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.pavilion {
+    margin-top: 200px;
+}
+
+.pavi {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}

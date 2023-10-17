@@ -1,0 +1,83 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-image: url(indiaa.jpg)
+}
+p {
+    color: black;
+
+}
+p1 {
+    color: white
+}
+h1{
+    color:antiquewhite;
+}
+.tajmahal {
+    margin-top: 100px;
+}
+.tajm {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.amber {
+    margin-top: 200px;
+}
+
+.ambe {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.redfort {
+    margin-top: 200px;
+}
+
+.redf {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.agrafort {
+    margin-top: 200px;
+}
+
+.agra {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
+.mumbai {
+    margin-top: 200px;
+}
+
+.mumb {
+    color: black;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -250px;
+}
