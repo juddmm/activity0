@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0EaTJcRARQjeMU2HY2sioHUDcaAwcvAmnp/0Uwg0Yt3bhgEKQXZe9ItfJP0UU9euSwxbr5yKRfgMC4NTIyIasw==",
+  "dgSpecHash": "Hn9pu567mj4ZCP0NN3m7r8Odpf9YSd+bF8uxpsDZOhx4GhMUokJ+p4sbRceD4My05jQNl7s4jm3XyPVUgogLBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ojt\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+  "projectFilePath": "C:\\Users\\ojt\\Desktop\\new\\activity0\\WebApplication4\\WebApplication4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ojt\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
   ],

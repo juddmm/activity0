@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ojt\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+      "projectUniqueName": "C:\\Users\\ojt\\Desktop\\new\\activity0\\WebApplication4\\WebApplication4.csproj",
       "projectName": "WebApplication4",
-      "projectPath": "C:\\Users\\ojt\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+      "projectPath": "C:\\Users\\ojt\\Desktop\\new\\activity0\\WebApplication4\\WebApplication4.csproj",
       "packagesPath": "C:\\Users\\ojt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ojt\\source\\repos\\WebApplication4\\WebApplication4\\obj\\",
+      "outputPath": "C:\\Users\\ojt\\Desktop\\new\\activity0\\WebApplication4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ojt\\AppData\\Roaming\\NuGet\\NuGet.Config",
